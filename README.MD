@@ -4,7 +4,7 @@ De webside [zonoppurmerend.nl](https://www.zonoppurmerend.nl/) is gemaakt met be
 
 ## Licentie
 
-Zon op Purmerend Coöperatie U.A. heeft een licentie gekocht van het Eco Press theme. Deze licentie is aangekocht met het Themeforest account [jeroenkok](https://themeforest.net/user/jeroenkok). Via dit account kunnen updates gedownload worden. Neem contact op met Jeroen Kok om toegang te krijgen tot dit account.
+Zon op Purmerend Coöperatie U.A. heeft een licentie gekocht van het Eco Press theme. Deze licentie is aangekocht met het Themeforest account [jeroenkok](https://themeforest.net/user/jeroenkok). Via dit account kunnen updates gedownload worden. Neem contact op met [Jeroen Kok](https://github.com/jeroenkoknl) om toegang te krijgen tot dit account.
 
 ## Aanpassing
 
